@@ -1,0 +1,32 @@
+.login{
+    width: 500px;
+    height: auto;
+    background: darkgray;
+    padding: 50px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform:  translate(-50%, -50%);
+    border-radius: 20px;
+    border: 2px solid ;
+}
+#register{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+}
+#register input{
+    border-radius: 5px;
+    height: 30px;
+    width: auto;
+}
+#register button{
+    border-radius: 5px;
+    height: 50px;
+    width: 30%;
+    background: white;
+}
+#register button:hover{
+    background: darkgray ;
+}
