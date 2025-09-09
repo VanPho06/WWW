@@ -1,0 +1,2 @@
+Dạ vì gói for student bên IntelliJ của em hết hạn nên em phải chờ duyệt gia hạn gói
+Trong tối ngày 9.9 em được JetBrains Confirm và được cấp lại tài khoản và em hoàn thành bài tập ngày tối hôm đó. Mong cô thông cảm ạ. 
